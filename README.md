@@ -33,3 +33,5 @@ Name That Song [Heardle](https://www.heardle.app/)
 
 DM Me on discord Camjam#0001 or [Revolt](https://revolt.chat) @Camjam if you wanna add more!
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="camjamPNG" data-color="#f50000" data-emoji="🛍️"  data-font="Poppins" data-text="Buy me a bag of chips" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
