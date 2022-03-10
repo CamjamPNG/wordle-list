@@ -19,7 +19,7 @@ Guess By The Globe [Globle](https://globle-game.com)
 
 Equations [Nerdlegame](https://nerdlegame.com)
 
-Copy Of Above [Numblerle](https://numberle.org)
+Copy Of Above [Numberle](https://numberle.org)
 
 # Other
 
