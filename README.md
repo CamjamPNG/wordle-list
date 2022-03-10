@@ -23,7 +23,7 @@ Copy Of Above [Numblerle](https://numberle.org)
 
 # Other
 
-Guess the countrie by its trade/gdp [tradle](https://nerdlegame.com)
+Guess the country by its trade/gdp [tradle](https://nerdlegame.com)
 
 DM Me on discord Camjam#0001 or [Revolt](https://revolt.chat) @Camjam if you wanna add more!
 
