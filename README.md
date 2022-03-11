@@ -25,7 +25,7 @@ Copy Of Above [Numberle](https://numberle.org)
 
 # Other
 
-Guess the country by its trade/gdp [tradle](https://nerdlegame.com)
+Guess the country by its trade/gdp [tradle](https://oec.world/en/tradle/)
 
 Guess a Pokemon [Squirdle](https://squirdle.fireblend.com/)
 
